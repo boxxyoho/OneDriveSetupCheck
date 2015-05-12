@@ -1,0 +1,1 @@
+This script is a login script that is used to check if OneDrive is setup for the documents and desktop directories to be redirected.
